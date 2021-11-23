@@ -1,4 +1,4 @@
-**Description:** Practice Inter-VLAN Routing using Layer 3 switch, start from the innitial state with default configurations or check out how i finished the lab.
+**Description:** Practice Inter-VLAN Routing using Layer 3 switch, start from the initial state with default configurations or check out how i finished the lab.
 
 Read more about Inter-VLAN Routing on [Cisco Press](https://www.ciscopress.com/articles/article.asp?p=3089357&seqNum=6).
 
