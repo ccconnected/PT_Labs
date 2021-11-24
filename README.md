@@ -1,7 +1,7 @@
 ## Lab List:
 
-1. [20211122_InterVLAN Routing](https://github.com/ccconnected/PT_Labs/blob/main/README.md#1-20211122_intervlan-routing)
-2. [20211124 L2 EtherChannel, HSRP, OSPF](https://github.com/ccconnected/PT_Labs/blob/main/README.md#2-20211124-l2-etherchannel-hsrp-ospf)
+1. [20211122_InterVLAN Routing](https://github.com/ccconnected/PT_Labs#1-20211122_intervlan-routing)
+2. [20211124 L2 EtherChannel, HSRP, OSPF](https://github.com/ccconnected/PT_Labs#2-20211124-l2-etherchannel-hsrp-ospf)
 
 
 ---
