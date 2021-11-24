@@ -32,6 +32,8 @@ Read more about Inter-VLAN Routing on [Cisco Press](https://www.ciscopress.com/a
 For in-between details not mentioned here or shown in the .pkt, choose for yourself.
 Additionally use this topology to practice other networking concepts: HSRP interface tracking, use of ACLs, NATting, spanning-tree protocol standard and priority change, PAgP EtherChannel, port security, etc.
 
+Read more about HSRP on [Cisco.com](https://www.cisco.com/c/en/us/support/docs/ip/hot-standby-router-protocol-hsrp/13780-6.html).
+
 **IMPORTANT:** Install the latest version (at least 8.0.1.0064) of [Packet Tracer](https://www.netacad.com/courses/packet-tracer) to be able to open these .pkt files.
 
 **Proof of Concept:**
