@@ -47,3 +47,9 @@ Additionally use this topology to practice other networking concepts: HSRP inter
 **Proof of Concept:**
 
 ![Solved Lab JPG](https://i.imgur.com/WOZBhdg.jpg)
+
+---
+
+## 3. 20211201 DHCPrelay, NTP
+
+**Task Description:** 
