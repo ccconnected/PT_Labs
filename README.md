@@ -12,6 +12,10 @@
 
 Read more about Inter-VLAN Routing on [Cisco Press](https://www.ciscopress.com/articles/article.asp?p=3089357&seqNum=6).
 
+**Direct Download:** 
+- [20211122_InterVLAN Routing - empty.pkt](https://github.com/ccconnected/PT_Labs/raw/main/20211122_InterVLAN%20Routing%20-%20empty.pkt)
+- [20211122_InterVLAN Routing - finished.pkt](https://github.com/ccconnected/PT_Labs/raw/main/20211122_InterVLAN%20Routing%20-%20finished.pkt)
+
 **IMPORTANT:** Install the latest version (at least 8.0.1.0064) of [Packet Tracer](https://www.netacad.com/courses/packet-tracer) to be able to open these .pkt files.
 
 **Proof of Concept:**
@@ -33,6 +37,10 @@ For in-between details not mentioned here or shown in the .pkt, choose for yours
 Additionally use this topology to practice other networking concepts: HSRP interface tracking, use of ACLs, NATting, spanning-tree protocol standard and priority change, PAgP EtherChannel, port security, etc.
 
 Read more about HSRP on [Cisco.com](https://www.cisco.com/c/en/us/support/docs/ip/hot-standby-router-protocol-hsrp/13780-6.html).
+
+**Direct Download:**
+- [20211124 L2 EtherChannel, HSRP, OSPF - empty.pkt](https://github.com/ccconnected/PT_Labs/raw/main/20211124%20L2%20EtherChannel%2C%20HSRP%2C%20OSPF%20-%20empty.pkt)
+- [20211124 L2 EtherChannel, HSRP, OSPF - finished.pkt](https://github.com/ccconnected/PT_Labs/raw/main/20211124%20L2%20EtherChannel%2C%20HSRP%2C%20OSPF%20-%20finished.pkt)
 
 **IMPORTANT:** Install the latest version (at least 8.0.1.0064) of [Packet Tracer](https://www.netacad.com/courses/packet-tracer) to be able to open these .pkt files.
 
