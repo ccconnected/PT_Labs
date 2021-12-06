@@ -33,9 +33,6 @@ Read more about Inter-VLAN Routing on [Cisco Press](https://www.ciscopress.com/a
 4. a) For VLAN 10 and 20: configure D-SW1 as the root bridge, and C-RT1 as the active router in the group,
    b) For VLAN 30: configure D-SW2 as the root bridge, and C-RT2 as the active router in the group.
 
-For in-between details not mentioned here or shown in the .pkt, choose for yourself.
-Additionally use this topology to practice other networking concepts: HSRP interface tracking, use of ACLs, NATting, spanning-tree protocol standard and priority change, PAgP EtherChannel, port security, etc.
-
 Read more about HSRP on [Cisco.com](https://www.cisco.com/c/en/us/support/docs/ip/hot-standby-router-protocol-hsrp/13780-6.html).
 
 **Direct Download:**
@@ -43,6 +40,9 @@ Read more about HSRP on [Cisco.com](https://www.cisco.com/c/en/us/support/docs/i
 - [20211124 L2 EtherChannel, HSRP, OSPF - finished.pkt](https://github.com/ccconnected/PT_Labs/raw/main/20211124%20L2%20EtherChannel%2C%20HSRP%2C%20OSPF%20-%20finished.pkt)
 
 **IMPORTANT:** Install the latest version (at least 8.0.1.0064) of [Packet Tracer](https://www.netacad.com/courses/packet-tracer) to be able to open these .pkt files.
+
+For in-between details not mentioned here or shown in the .pkt, choose for yourself.
+Additionally use this topology to practice other networking concepts: HSRP interface tracking, use of ACLs, NATting, spanning-tree protocol standard and priority change, PAgP EtherChannel, port security, etc.
 
 **Proof of Concept:**
 
