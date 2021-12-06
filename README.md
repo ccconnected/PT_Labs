@@ -2,6 +2,7 @@
 
 1. [20211122_InterVLAN Routing](https://github.com/ccconnected/PT_Labs#1-20211122_intervlan-routing)
 2. [20211124 L2 EtherChannel, HSRP, OSPF](https://github.com/ccconnected/PT_Labs#2-20211124-l2-etherchannel-hsrp-ospf)
+3. [20211201 DHCPrelay, NTP](https://github.com/ccconnected/PT_Labs#3-20211201-dhcprelay-ntp)
 
 
 ---
@@ -53,3 +54,21 @@ Additionally use this topology to practice other networking concepts: HSRP inter
 ## 3. 20211201 DHCPrelay, NTP
 
 **Task Description:** 
+1. First configure static IP addressing for all PCs, routers' interfaces and Server1.
+2. Configure dynamic routing (for example OSPF) in the network, ping should now work between all PCs. After that, configure DHCP pool on Server1, then make all switches (int VLAN 1) and transfer all PCs to be it's DHCP clients;
+3. Define DNS A record on Server1 for R1 as "router1" and ssh (version 2) to it from PC4 by it's name. Let the username be "admin" ssh password "admin", enable md5 password "lab".
+4. Define Router 2 as NTP master clock 3 and all other routers to be it's NTP clients, then check NTP status on them all.
+
+Read more about configuring SSH on [Cisco.com](https://www.cisco.com/c/en/us/support/docs/security-vpn/secure-shell-ssh/4145-ssh.html).
+
+**Direct Download:**
+- [20211201 DHCPrelay, NTP - empty.pkt](https://github.com/ccconnected/PT_Labs/raw/main/20211201%20DHCPrelay%2C%20NTP%20-%20empty.pkt)
+- [20211201 DHCPrelay, NTP - finished.pkt](https://github.com/ccconnected/PT_Labs/raw/main/20211201%20DHCPrelay%2C%20NTP%20-%20finished.pkt)
+
+**IMPORTANT:** Install the latest version (at least 8.0.1.0064) of [Packet Tracer](https://www.netacad.com/courses/packet-tracer) to be able to open these .pkt files.
+
+For in-between details not mentioned here or shown in the .pkt, choose for yourself. Additionally, use this topology to practice other networking concepts.
+
+**Proof of Concept:**
+
+![Solved Lab JPG](https://i.imgur.com/Dju626A.jpg)
