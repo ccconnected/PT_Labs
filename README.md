@@ -3,6 +3,7 @@
 1. [20211122_InterVLAN Routing](https://github.com/ccconnected/PT_Labs#1-20211122_intervlan-routing)
 2. [20211124 L2 EtherChannel, HSRP, OSPF](https://github.com/ccconnected/PT_Labs#2-20211124-l2-etherchannel-hsrp-ospf)
 3. [20211201 DHCPrelay, NTP](https://github.com/ccconnected/PT_Labs#3-20211201-dhcprelay-ntp)
+4. [20211220 VoIP, PortSec, DHCP](https://github.com/ccconnected/PT_Labs#3-20211201-dhcprelay-ntp)
 
 
 ---
@@ -72,3 +73,26 @@ For in-between details not mentioned here or shown in the .pkt, choose for yours
 **Proof of Concept:**
 
 ![Solved Lab JPG](https://i.imgur.com/Dju626A.jpg)
+
+---
+
+## 4. 20211220 VoIP, PortSec, DHCP
+
+**Task Description:** 
+I created this lab with the goal to practice establishing calls in Packet Tracer at the CCNA level. The lab has no strict requrements, use provided free resource, practice what you studied to configure DHCP pools, telephony service, and port security.
+
+Read moreon configuring telephony service, voice VLAN, DHCP pools on a router, and port security:
+- [Cisco.com](https://www.cisco.com/c/en/us/support/docs/security-vpn/secure-shell-ssh/4145-ssh.html).
+
+**Direct Download:**
+- [20211201 DHCPrelay, NTP - empty.pkt](https://github.com/ccconnected/PT_Labs/raw/main/20211201%20DHCPrelay%2C%20NTP%20-%20empty.pkt)
+- [20211201 DHCPrelay, NTP - finished.pkt](https://github.com/ccconnected/PT_Labs/raw/main/20211201%20DHCPrelay%2C%20NTP%20-%20finished.pkt)
+
+**IMPORTANT:** Install the latest version (at least 8.0.1.0064) of [Packet Tracer](https://www.netacad.com/courses/packet-tracer) to be able to open these .pkt files.
+
+For in-between details not mentioned here or shown in the .pkt, choose for yourself. Additionally, use this topology to practice other networking concepts.
+
+**Proof of Concept:**
+
+![Solved Lab JPG](https://i.imgur.com/Dju626A.jpg)
+
