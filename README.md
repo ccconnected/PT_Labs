@@ -87,7 +87,7 @@ For in-between details not mentioned here or shown in the .pkt, choose for yours
 - [20211220 VoIP, PortSec, DHCP - empty.pkt](https://github.com/ccconnected/PT_Labs/raw/main/20211220%20VoIP%2C%20PortSec%2C%20DHCP%20-%20empty.pkt)
 - [20211220 VoIP, PortSec, DHCP - finished.pkt](https://github.com/ccconnected/PT_Labs/raw/main/20211220%20VoIP%2C%20PortSec%2C%20DHCP%20-%20finished.pkt)
 
-Read more on configuring telephony service, voice VLAN, DHCP pools on a router, and port security:
+**Read more** on configuring telephony service, voice VLAN, DHCP pools on a router, and port security:
 1. Cisco Packet Tracer sample .pkt files under File -> Open Samples ... -> (PT installation location\PT version\) saves -> Voice_IPPhone
 2. packettracernetwork.com Packet Tracer tutorials ["IP telephony devices"](https://www.packettracernetwork.com/tutorials/voip-devices.html) and ["IP telephony basic configuration"](https://www.packettracernetwork.com/tutorials/voipconfiguration.html)
 3. resources.intenseschool.com CCNA Voice prep exercises ["VoIP in Packet Tracer – Basic Labs"](https://resources.intenseschool.com/voip-in-packet-tracer-basic-labs/) and ["VoIP in Packet Tracer pt 2 – Intermediate Labs"](https://resources.intenseschool.com/voip-in-packet-tracer-a-little-more-advanced-labs/)
