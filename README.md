@@ -3,7 +3,7 @@
 1. [20211122_InterVLAN Routing](https://github.com/ccconnected/PT_Labs#1-20211122_intervlan-routing)
 2. [20211124 L2 EtherChannel, HSRP, OSPF](https://github.com/ccconnected/PT_Labs#2-20211124-l2-etherchannel-hsrp-ospf)
 3. [20211201 DHCPrelay, NTP](https://github.com/ccconnected/PT_Labs#3-20211201-dhcprelay-ntp)
-4. [20211220 VoIP, PortSec, DHCP](https://github.com/ccconnected/PT_Labs#3-20211201-dhcprelay-ntp)
+4. [20211220 VoIP, PortSec, DHCP](https://github.com/ccconnected/PT_Labs#4-20211220-voip-portsec-dhcp)
 
 
 ---
@@ -81,18 +81,24 @@ For in-between details not mentioned here or shown in the .pkt, choose for yours
 **Task Description:** 
 I created this lab with the goal to practice establishing calls in Packet Tracer at the CCNA level. The lab has no strict requrements, use provided free resource, practice what you studied to configure DHCP pools, telephony service, and port security.
 
-Read moreon configuring telephony service, voice VLAN, DHCP pools on a router, and port security:
-- [Cisco.com](https://www.cisco.com/c/en/us/support/docs/security-vpn/secure-shell-ssh/4145-ssh.html).
+For in-between details not mentioned here or shown in the .pkt, choose for yourself. Additionally, use this topology to practice other networking concepts.
 
 **Direct Download:**
-- [20211201 DHCPrelay, NTP - empty.pkt](https://github.com/ccconnected/PT_Labs/raw/main/20211201%20DHCPrelay%2C%20NTP%20-%20empty.pkt)
-- [20211201 DHCPrelay, NTP - finished.pkt](https://github.com/ccconnected/PT_Labs/raw/main/20211201%20DHCPrelay%2C%20NTP%20-%20finished.pkt)
+- [20211220 VoIP, PortSec, DHCP - empty.pkt](https://github.com/ccconnected/PT_Labs/raw/main/20211220%20VoIP%2C%20PortSec%2C%20DHCP%20-%20empty.pkt)
+- [20211220 VoIP, PortSec, DHCP - finished.pkt](https://github.com/ccconnected/PT_Labs/raw/main/20211220%20VoIP%2C%20PortSec%2C%20DHCP%20-%20finished.pkt)
+
+Read more on configuring telephony service, voice VLAN, DHCP pools on a router, and port security:
+1. Cisco Packet Tracer sample .pkt files under File -> Open Samples ... -> (PT installation location\PT version\) saves -> Voice_IPPhone
+2. packettracernetwork.com Packet Tracer tutorials ["IP telephony devices"](https://www.packettracernetwork.com/tutorials/voip-devices.html) and ["IP telephony basic configuration"](https://www.packettracernetwork.com/tutorials/voipconfiguration.html)
+3. resources.intenseschool.com CCNA Voice prep exercises ["VoIP in Packet Tracer – Basic Labs"](https://resources.intenseschool.com/voip-in-packet-tracer-basic-labs/) and ["VoIP in Packet Tracer pt 2 – Intermediate Labs"](https://resources.intenseschool.com/voip-in-packet-tracer-a-little-more-advanced-labs/)
+4. ciscopress.com CCNA Voice Lab Manual sample chapter ["Establishing Network Connectivity and Understanding IP Phone Registration"](https://www.ciscopress.com/articles/article.asp?p=2013217)
+5. cisco.com Cisco IOS Software Configuration Guide, Release 12.2SX sample chapter ["Configuring Port Security"](https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst6500/ios/12-2SX/configuration/guide/book/port_sec.pdf)
+6. cisco.com Catalyst 2960 Switch Software Configuration Guide sample chapter ["Configuring Voice VLAN"](https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst2960/software/release/12-2_40_se/configuration/guide/scg/swvoip.pdf)
+7. packetlife.net [Cheat Sheets](https://packetlife.net/library/cheat-sheets/)
 
 **IMPORTANT:** Install the latest version (at least 8.0.1.0064) of [Packet Tracer](https://www.netacad.com/courses/packet-tracer) to be able to open these .pkt files.
 
-For in-between details not mentioned here or shown in the .pkt, choose for yourself. Additionally, use this topology to practice other networking concepts.
-
 **Proof of Concept:**
 
-![Solved Lab JPG](https://i.imgur.com/Dju626A.jpg)
+![Solved Lab JPG](https://i.imgur.com/HuCN1mj.jpg)
 
